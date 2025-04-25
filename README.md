@@ -47,7 +47,8 @@ streamlit run app.py
 
 6. **Access the application: After running the app, you can access it in your browser at the following address**:
 http://localhost:8501
-Usage
+
+**Usage**
 Once the app is running, you can:
 
 Take a pre-assessment to evaluate your initial phobia level.
@@ -58,7 +59,7 @@ Take a post-assessment to assess any change in your phobia level.
 
 View the interactive graphs that compare your pre- and post-assessment results.
 
-Contributing
+**Contributing**
 If you would like to contribute to the project, follow these steps:
 
 Fork the repository.
@@ -73,5 +74,6 @@ Push to the branch (git push origin feature-name).
 
 Create a pull request with a description of your changes.
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+**License**
+This should now be one continuous block, no breaks. Just copy this and paste it into your `README.md`.
+
